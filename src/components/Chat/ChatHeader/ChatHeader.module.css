@@ -1,0 +1,27 @@
+.wrapper {
+  width: 380px;
+  padding: 25px;
+  box-shadow: 0px 20px 50px #00000027;
+  background: var(--blue) 0% 0% no-repeat padding-box;
+  border-radius: 9px 9px 0 0;
+  opacity: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.robot-head {
+  position: absolute;
+  left: 155px;
+}
+
+.burger-icon {
+  position: absolute;
+  left: 20px;
+}
+
+.close-icon {
+  position: absolute;
+  right: 20px;
+}

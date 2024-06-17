@@ -1,0 +1,7 @@
+{
+  "greeting": "Hi, I am Ivy!",
+  "desc": "I am a virtual assistant here to answer your questions.",
+  "inputPlaceholder": "How can I help you",
+  "enterMessage": "Enter your message",
+  "botName": "Ivy Bot"
+}

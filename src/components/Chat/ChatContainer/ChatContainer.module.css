@@ -1,0 +1,9 @@
+.wrapper {
+  position: relative;
+}
+
+.robot-head-container {
+  display: flex;
+  justify-content: end;
+  margin-top: 1rem;
+}
